@@ -1,2 +1,1 @@
-# planning-app
-Application for task planning
+Project description updated in develop branch.
