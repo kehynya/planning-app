@@ -1,1 +1,1 @@
-Project description updated in develop branch.
+Project description updated in develop branch
